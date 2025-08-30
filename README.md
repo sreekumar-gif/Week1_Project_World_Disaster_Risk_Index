@@ -9,7 +9,7 @@ This project explores the World Disaster Risk Index dataset, analyzing climate r
 
 ## Files
 - Jupyter Notebook: `Week1_Project_World_Disaster_Risk_Index.ipynb`
-- Dataset CSV: `global_disaster_risk_index.csv`
+- Dataset CSV: `world_risk_index.csv`
 
 ## How to Run
 Open the notebook and run all cells to reproduce the analysis.
